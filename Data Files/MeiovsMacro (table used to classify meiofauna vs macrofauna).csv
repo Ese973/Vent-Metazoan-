@@ -1,0 +1,139 @@
+Taxon14,PreciseTaxon,Identity,Classification,ReadCount,ASVCount,Phylum,Reason
+Crustacea,Taxon15,Maxillopoda,Meiofauna,716587,202,Arthropoda,Traditionally considered a meiofanal group
+Crustacea,Taxon15,Malacostraca,Macrofauna,138801,24,Arthropoda,All surveyed malacostracans are large
+Crustacea,Taxon15,Ostracoda,Meiofauna,5866,12,Arthropoda,Traditionally considered a meiofaunal group
+Gastropoda,Taxon16,Lepetodrilus elevatus,Macrofauna,1283224,52,Mollusca,Holotype 6.6 mm x 4.8 mm x 2.9 mm
+Gastropoda,Taxon16,Depressigyra globulus,Macrofauna,92782,21,Mollusca,Holotype diameter 5.4 mm
+Gastropoda,Taxon16,Melanodrymia aurantiaca,Macrofauna,22821,4,Mollusca,Holotype 1.5 mm x 2.5 mm
+Gastropoda,Taxon16,Protolira sp. SWA-2010,Macrofauna,22438,3,Mollusca,Holotype diameter 2.48 mm
+Gastropoda,Taxon16,Abyssochrysos melanioides,Macrofauna,17688,4,Mollusca,Holotype diameter 12 mm
+Polychaeta,Taxon16,Terebellida,Macrofauna,577152,40,Annelida,"Holotypes >1 mm, very little information on juveniles"
+Polychaeta,Taxon16,Sabellida,Macrofauna,59328,8,Annelida,"Holotypes >1 mm, very little information on juveniles"
+Polychaeta,Taxon16,Phyllodocida,Macrofauna,41713,29,Annelida,Wikipedia says they range from 1 few mm to over a m
+Polychaeta,Taxon16,Capitellida,Macrofauna,13785,9,Annelida,"All holotypes are >1mm or ""long"""
+Polychaeta,Taxon16,Eunicida,Macrofauna,12585,9,Annelida,All references I could find were >1 mm
+Polychaeta,Taxon16,Spionida,Temporary,7001,22,Annelida,Spionids have been known to exist as larval Meiofaunafauna
+Polychaeta,Taxon16,Protodrilus,Meiofauna,1134,2,Annelida,Giere 2009 lists the family as Meiobenthic
+Cunina frugifera,Taxon14,Cunina frugifera,Jellyfish,193377,16,Cnidaria,Very little known jellyfish in meiobenthic record
+Siphonophorae Taxon13,Taxon14,Siphonophorae Taxon13,Jellyfish,103012,59,Cnidaria,Very little known jellyfish in meiobenthic record
+Enopla,Taxon14,Enopla,Macrofauna,92811,13,Nemertea,All holotypes are >1mm
+Annelida Taxon13,Taxon14,Annelida Taxon13,Indeterminate,43290,49,Annelida,Too broad taxonomy
+Nematoda,Taxon14,Nematoda,Meiofauna,37853,43,Nematoda,Nematodes are traditionally considered a meiobenthic phylum
+Gnathostomata,Taxon14,Gnathostomata,Chordates,36388,39,Chordata,Gnathostomatans are vertebrates
+Cydippida Taxon12,Taxon14,Cydippida Taxon12,Jellyfish,30950,22,Ctenophora,Very little known jellyfish in meiobenthic record
+Phacellophora camtschatica (eggyolk jelly) Taxon13,Taxon14,Phacellophora camtschatica (eggyolk jelly) Taxon13,Jellyfish,22755,4,Cnidaria,Very little known jellyfish in meiobenthic record
+Chelicerata,Taxon17,Simognathus sp. 1 ARP-2018,Meiofauna,12324,3,Arthropoda,Halacarid mites are traditionally considered meiofauna
+Chelicerata,Taxon17,Sericosura venticola,Macrofauna,503,1,Arthropoda,Description lists leg span as 23.1 mm
+Chelicerata,Taxon17,Acarothrix sp. ARP-2015,Meiofauna,417,2,Arthropoda,Halacarid mites are traditionally considered meiofauna
+Thaliacea,Taxon14,Thaliacea,Chordates,10803,11,Chordata,Thaliaceans are a group of pelagic chordates
+Ctenophora sp. Bahamas Taxon11,Taxon14,Ctenophora sp. Bahamas Taxon11,Jellyfish,9196,2,Ctenophora,Very little known jellyfish in meiobenthic record
+Eudendrium racemosum,Taxon14,Eudendrium racemosum,Jellyfish,5890,3,Cnidaria,Very little known jellyfish in meiobenthic record
+Pleurobrachia pileus Taxon13,Taxon14,Pleurobrachia pileus Taxon13,Jellyfish,5879,3,Ctenophora,Very little known jellyfish in meiobenthic record
+Monogononta,Taxon14,Monogononta,Meiofauna,4780,12,Rotifera,Rotifers are traditionally considered meiofauna
+Bargmannia elongata,Taxon14,Bargmannia elongata,Jellyfish,3403,4,Cnidaria,Very little known jellyfish in meiobenthic record
+Bivalvia,Taxon14,Bivalvia,Macrofauna,3357,2,Mollusca,"Only species is called a ""giant clam"" and has dimensions of >1 mm"
+Pantachogon haeckeli,Taxon14,Pantachogon haeckeli,Jellyfish,2401,3,Cnidaria,Very little known jellyfish in meiobenthic record
+Porifera Taxon8,Taxon14,Porifera Taxon8,Macrofauna,1873,19,Porifera,Sponges are traditionally considered macrofauna
+Terrazoanthus onoi,Taxon14,Terrazoanthus onoi,Jellyfish,1821,2,Cnidaria,Very little known jellyfish in meiobenthic record
+Rhabditophora,Taxon17,Itaipusa sp. n. 1 TJ-2014,Meiofauna,1278,2,Platyhelminthes,Type specimen for genus is 0.8-1 mm long
+Jasonactis erythraios,Taxon14,Jasonactis erythraios,Jellyfish,1600,1,Cnidaria,Very little known jellyfish in meiobenthic record
+Loricifera,Taxon14,Loricifera,Meiofauna,1421,3,Loricifera,Loriciferans are traditionally considered meiofauna
+Trachymedusae Taxon13,Taxon14,Trachymedusae Taxon13,Jellyfish,1334,10,Cnidaria,Very little known jellyfish in meiobenthic record
+Ophiuroidea,Taxon14,Ophiuroidea,Macrofauna,1307,4,Echinodermata,The two species described were well >1 mm
+Pandea sp. AGC-2005,Taxon14,Pandea sp. AGC-2005,Jellyfish,1289,3,Cnidaria,Very little known jellyfish in meiobenthic record
+Enteropneusta,Taxon16,Meioglossus psammophilus,Meiofauna,1095,2,Hemichordata,"I've read about this species, it's really cool meiofauna!"
+Enteropneusta,Taxon16,Harrimania kupfferi,Macrofauna,69,1,Hemichordata,Meioglossus is the only meiofaunal acorn worm
+Enteropneusta,Taxon16,Saccoglossus sp. 2 JTC-2014,Macrofauna,8,1,Hemichordata,Meioglossus is the only meiofaunal acorn worm
+Gastropoda,Taxon16,Tectarius spinulosus,Macrofauna,553,1,Mollusca,A specimen of the same genus was 5-10 mm
+Gastropoda,Taxon16,Cuthonella concinna,Macrofauna,55,1,Mollusca,Denticles are 5-11 mm in length
+Gastropoda,Taxon16,Limacina retroversa,Macrofauna,41,1,Mollusca,"About 2 mm (1 ""line"") in length"
+Gastropoda,Taxon16,Styliola subula,Macrofauna,41,1,Mollusca,"About 12 mm (6 ""lines"") long"
+Gastropoda,Taxon16,Clio pyramidata,Macrofauna,15,1,Mollusca,Congeneric was ~15 mm
+Gastropoda,Taxon16,Turbo sp. SZ-2011,Macrofauna,5,1,Mollusca,"The genus is ""very large"" according to Wiki"
+Gastropoda,Taxon16,Caenogastropoda Taxon15,Indeterminate,2,1,Mollusca,Too broad taxonomy
+Polychaeta,Taxon16,Palpata Incertae Sedis,Indeterminate,240,7,Annelida,Too broad taxonomy
+Polychaeta,Taxon16,Orbiniidae,Macrofauna,78,1,Annelida,"Couldn't find specific species info, but most are macrofaunal"
+Polychaeta,Taxon16,Echiuroinea,Macrofauna,5,1,Annelida,Picture looks macrofaunal
+Polychaeta,Taxon16,Flabelligerida,Macrofauna,4,2,Annelida,Several mm long
+Polychaeta,Taxon16,Opheliidae,Macrofauna,3,1,Annelida,20 mm in length
+Polychaeta,Taxon16,Cossuridae,Macrofauna,2,1,Annelida,~2 mm long
+Chelicerata,Taxon17,Dermatophagoides evansi,Indeterminate,49,3,Arthropoda,Contaminant
+Chelicerata,Taxon17,Platynothrus peltifer,Meiofauna,26,1,Arthropoda,Oribatid mites are generally considered meiofauna
+Chelicerata,Taxon17,Triticum urartu,Indeterminate,3,1,Arthropoda,Contaminant
+Rhabditophora,Taxon17,Paraplanocera oligoglena Taxon16,Macrofauna,195,1,Platyhelminthes,Looks macroscopic
+Rhabditophora,Taxon17,Styloplanella strongylostomoides,Indeterminate,102,3,Platyhelminthes,Supposed to be freshwater only
+Rhabditophora,Taxon17,Gyratrix sp. n. TJ-2014,Meiofauna,85,1,Platyhelminthes,Looks microscopic
+Rhabditophora,Taxon17,Acrorhynchides robustus,Meiofauna,34,1,Platyhelminthes,Looks microscopic
+Rhabditophora,Taxon17,Notoplana australis Taxon16,Macrofauna,26,1,Platyhelminthes,Picture scale looks like several cm long
+Rhabditophora,Taxon17,Plicastoma cuticulata Taxon16,Meiofauna,20,3,Platyhelminthes,Video showed a microscopic specimen
+Rhabditophora,Taxon17,Austrorhynchus bruneti,Meiofauna,13,1,Platyhelminthes,Descripting paper lists it as a meiofauna species
+Rhabditophora,Taxon17,Continenticola,Indeterminate,11,1,Platyhelminthes,Too broad taxonomy
+Rhabditophora,Taxon17,Promesostoma cochleare,Meiofauna,8,1,Platyhelminthes,Looks microscopic
+Rhabditophora,Taxon17,Opisthocystis goettei,Indeterminate,7,2,Platyhelminthes,No information available
+Rhabditophora,Taxon17,Kalyptorhynchia Taxon16,Indeterminate,4,1,Platyhelminthes,Too broad taxonomy
+Rhabditophora,Taxon17,Pseudostomum gracilis Taxon16,Meiofauna,3,1,Platyhelminthes,Included specifically in a study on meiofauna
+Beroe abyssicola Taxon13,Taxon14,Beroe abyssicola Taxon13,Jellyfish,888,1,Ctenophora,Very little known jellyfish in meiobenthic record
+Trachylinae Taxon12,Taxon14,Trachylinae Taxon12,Jellyfish,813,3,Cnidaria,Very little known jellyfish in meiobenthic record
+Hydrichthella epigorgia,Taxon14,Hydrichthella epigorgia,Jellyfish,701,3,Cnidaria,Very little known jellyfish in meiobenthic record
+Millepora sp. AGC-2001,Taxon14,Millepora sp. AGC-2001,Jellyfish,619,2,Cnidaria,Very little known jellyfish in meiobenthic record
+Beroe forskalii Taxon13,Taxon14,Beroe forskalii Taxon13,Jellyfish,553,2,Ctenophora,Very little known jellyfish in meiobenthic record
+Tima bairdii,Taxon14,Tima bairdii,Jellyfish,492,2,Cnidaria,Very little known jellyfish in meiobenthic record
+Obeliida sp. USNM 1420678,Taxon14,Obeliida sp. USNM 1420678,Jellyfish,436,3,Cnidaria,Very little known jellyfish in meiobenthic record
+Monobrachium parasiticum,Taxon14,Monobrachium parasiticum,Jellyfish,411,6,Cnidaria,Very little known jellyfish in meiobenthic record
+Holothuroidea,Taxon14,Holothuroidea,Macrofauna,355,10,Echinodermata,Sea cucumbers are traditionally considered macrofauna
+Tiaropsis multicirrata,Taxon14,Tiaropsis multicirrata,Jellyfish,336,1,Cnidaria,Very little known jellyfish in meiobenthic record
+Aglantha digitale,Taxon14,Aglantha digitale,Jellyfish,291,2,Cnidaria,Very little known jellyfish in meiobenthic record
+Aphragmophora,Taxon14,Aphragmophora,Macrofauna,285,6,Chaetognatha,All arrow worms surveyed were macrofaunal
+Loxosomella profundorum,Taxon14,Loxosomella profundorum,Meiofauna,267,2,Entoprocta,Individuals can be small even though colonies are large
+Eleutheria claparedei,Taxon14,Eleutheria claparedei,Jellyfish,248,1,Cnidaria,Very little known jellyfish in meiobenthic record
+Zanclea sp. KA037,Taxon14,Zanclea sp. KA037,Jellyfish,219,1,Cnidaria,Very little known jellyfish in meiobenthic record
+Appendicularia,Taxon14,Appendicularia,Chordates,196,7,Chordata,"Tunicates are chordates, although they could be considered macrofauna..."
+Macrodasyida,Taxon14,Macrodasyida,Meiofauna,156,6,Gastrotricha,Don't need to look this one up!
+Clytia sp. 1 AFC-2016,Taxon14,Clytia sp. 1 AFC-2016,Jellyfish,153,1,Cnidaria,Very little known jellyfish in meiobenthic record
+Haeckelia rubra Taxon13,Taxon14,Haeckelia rubra Taxon13,Jellyfish,114,2,Ctenophora,Very little known jellyfish in meiobenthic record
+Protostomia Taxon11,Taxon14,Protostomia Taxon11,Indeterminate,113,3,Indeterminate,Too broad taxonomy
+Atolla vanhoeffeni Taxon13,Taxon14,Atolla vanhoeffeni Taxon13,Jellyfish,112,2,Cnidaria,Very little known jellyfish in meiobenthic record
+Ptychogena crocea,Taxon14,Ptychogena crocea,Jellyfish,106,1,Cnidaria,Very little known jellyfish in meiobenthic record
+Tetraplatia volitans,Taxon14,Tetraplatia volitans,Jellyfish,89,3,Cnidaria,Very little known jellyfish in meiobenthic record
+Earleria quadrata,Taxon14,Earleria quadrata,Jellyfish,87,2,Cnidaria,Very little known jellyfish in meiobenthic record
+Narcomedusae Taxon13,Taxon14,Narcomedusae Taxon13,Jellyfish,70,1,Cnidaria,Very little known jellyfish in meiobenthic record
+Intoshia linei Taxon13,Taxon14,Intoshia linei Taxon13,Parasites,60,2,Orthonectida,Weird little parasite...
+Branchiocerianthus imperator,Taxon14,Branchiocerianthus imperator,Jellyfish,56,1,Cnidaria,Very little known jellyfish in meiobenthic record
+Leiopathes sp. ES-2013,Taxon14,Leiopathes sp. ES-2013,Jellyfish,42,1,Cnidaria,Very little known jellyfish in meiobenthic record
+Echinoidea,Taxon14,Echinoidea,Macrofauna,41,2,Echinodermata,Sea urchins are traditionally considered macrofauna
+Halopsis ocellata,Taxon14,Halopsis ocellata,Jellyfish,41,1,Cnidaria,Very little known jellyfish in meiobenthic record
+Mertensiidae sp. A9 Taxon13,Taxon14,Mertensiidae sp. A9 Taxon13,Jellyfish,40,1,Ctenophora,Very little known jellyfish in meiobenthic record
+Solmissus marshalli,Taxon14,Solmissus marshalli,Jellyfish,38,3,Cnidaria,Very little known jellyfish in meiobenthic record
+Cunina octonaria Taxon13,Taxon14,Cunina octonaria Taxon13,Jellyfish,33,1,Cnidaria,Very little known jellyfish in meiobenthic record
+Melicertum octocostatum,Taxon14,Melicertum octocostatum,Jellyfish,25,1,Cnidaria,Very little known jellyfish in meiobenthic record
+Ptychogastria polaris,Taxon14,Ptychogastria polaris,Jellyfish,25,1,Cnidaria,Very little known jellyfish in meiobenthic record
+Mitrocomella niwai,Taxon14,Mitrocomella niwai,Jellyfish,23,1,Cnidaria,Very little known jellyfish in meiobenthic record
+Cephalopoda,Taxon14,Cephalopoda,Macrofauna,20,1,Mollusca,"I'm not sure if they count as macrofauna, but the reads are negligible..."
+Laodicea undulata,Taxon14,Laodicea undulata,Jellyfish,20,1,Cnidaria,Very little known jellyfish in meiobenthic record
+Tiaropsidium kelseyi,Taxon14,Tiaropsidium kelseyi,Jellyfish,20,1,Cnidaria,Very little known jellyfish in meiobenthic record
+Leuconia nivea Taxon11,Taxon14,Leuconia nivea Taxon11,Macrofauna,17,1,Porifera,Sponges are traditionally considered macrofauna
+Acoelomorpha,Taxon14,Acoelomorpha,Meiofauna,16,3,Xenacelomorpha,All species described are =>1 mm
+Bdelloidea,Taxon14,Bdelloidea,Meiofauna,16,1,Rotifera,Rotifers are traditionally considered meiofauna
+Abyssocladia dominalba Taxon11,Taxon14,Abyssocladia dominalba Taxon11,Macrofauna,15,1,Porifera,Sponges are traditionally considered macrofauna
+Guitarra sp. 0CDN7391-S Taxon11,Taxon14,Guitarra sp. 0CDN7391-S Taxon11,Macrofauna,14,1,Porifera,Sponges are traditionally considered macrofauna
+Opercularella lacerata,Taxon14,Opercularella lacerata,Jellyfish,14,1,Cnidaria,Very little known jellyfish in meiobenthic record
+Gymnolaemata,Taxon14,Gymnolaemata,Meiofauna,13,1,Bryozoa,"Bryozoans are traditionally considered meiofauna, although the colonies are large..."
+Nematostella vectensis (starlet sea anemone),Taxon14,Nematostella vectensis (starlet sea anemone),Jellyfish,13,1,Cnidaria,Very little known jellyfish in meiobenthic record
+Leucaltis clathria Taxon12,Taxon14,Leucaltis clathria Taxon12,Macrofauna,12,1,Porifera,Sponges are traditionally considered macrofauna
+Edwardsiella lineata,Taxon14,Edwardsiella lineata,Jellyfish,11,1,Cnidaria,Very little known jellyfish in meiobenthic record
+Poralia rufescens Taxon13,Taxon14,Poralia rufescens Taxon13,Jellyfish,11,1,Cnidaria,Very little known jellyfish in meiobenthic record
+Viatrix globulifera,Taxon14,Viatrix globulifera,Jellyfish,10,1,Cnidaria,Very little known jellyfish in meiobenthic record
+Ascidiacea,Taxon14,Ascidiacea,Chordates,9,1,Chordata,Ascidians are chordates
+Aphroceras sp. OV-2012 Taxon12,Taxon14,Aphroceras sp. OV-2012 Taxon12,Macrofauna,7,1,Porifera,Sponges are traditionally considered macrofauna
+Lamellomorpha strongylata Taxon11,Taxon14,Lamellomorpha strongylata Taxon11,Macrofauna,6,2,Porifera,Sponges are traditionally considered macrofauna
+Peachia cylindrica,Taxon14,Peachia cylindrica,Jellyfish,6,1,Cnidaria,Very little known jellyfish in meiobenthic record
+Demospongiae sp. MNRJ15830 Taxon11,Taxon14,Demospongiae sp. MNRJ15830 Taxon11,Macrofauna,5,1,Porifera,Sponges are traditionally considered macrofauna
+Kudoa paniformis,Taxon14,Kudoa paniformis,Jellyfish,5,1,Cnidaria,Very little known jellyfish in meiobenthic record
+Asteroidea,Taxon14,Asteroidea,Macrofauna,4,1,Echinodermata,Starfish are traditionally considered macrofauna
+Cytaeis sp. MAN-2015,Taxon14,Cytaeis sp. MAN-2015,Jellyfish,4,1,Cnidaria,Very little known jellyfish in meiobenthic record
+Eirene viridula,Taxon14,Eirene viridula,Jellyfish,4,1,Cnidaria,Very little known jellyfish in meiobenthic record
+Myzostomida,Taxon14,Myzostomida,Parasites,4,1,Annelida,Weird little parasitic annelids...
+Phragmophora,Taxon14,Phragmophora,Macrofauna,3,1,Chaetognatha,Only species was over 5 mm
+Catenulida,Taxon14,Catenulida,Meiofauna,2,1,Platyhelminthes,Tiny little flatworms
+Hexactinella carolinensis Taxon13,Taxon14,Hexactinella carolinensis Taxon13,Macrofauna,2,1,Porifera,Sponges are traditionally considered macrofauna
+Bougainvillia sp. AGC-2001,Taxon14,Bougainvillia sp. AGC-2001,Jellyfish,1,1,Cnidaria,Very little known jellyfish in meiobenthic record
